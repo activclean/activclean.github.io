@@ -1,0 +1,1 @@
+module.exports = require("npm:jquery-match-height@0.6.0/jquery.matchHeight");
